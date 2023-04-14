@@ -1,17 +1,18 @@
 -------------------------------------------------------------------------------
-�y �^�C�g�� �z filetest.x version 1.01
-�y�t�@�C�����z ftest101.zip
-�y �� �� �� �z �݂� (miyu rose)
-�y ����� �z XEiJ 0.23.04.10 / XM6 TypeG version 3.35
-�y ���k�`�� �z zip(unzip32.dll) zip Level9
-�y �� �J �� �z 2023�N04��14��
-�y �] �� �� �z X68KBBS
-�y �z�z�]�� �z ��
-�y  ��  �l  �z �e�X�g���ڂ̐􂢏o�������Ă��������� Itagaki ���܂Ɋ��ӂ��܂��B
+【 タイトル 】 filetest.x version 1.01
+【ファイル名】 ftest101.zip
+【 制 作 者 】 みゆ (miyu rose)
+【 制作環境 】 XEiJ 0.23.04.10 / XM6 TypeG version 3.35
+【 圧縮形式 】 zip(unzip32.dll) zip Level9
+【 公 開 日 】 2023年04月14日
+【 転 載 元 】 X68KBBS
+【 配布転載 】 可
+【  備  考  】 テスト項目の洗い出しをしてくださった Itagaki さま と
+　　　　　　　 動作チェックにご協力くださった はう さまに感謝します
 -------------------------------------------------------------------------------
-                                                          X68KBBS�FX68K0001
-                                                          Twitter�F@arith_rose
+                                                          X68KBBS：X68K0001
+                                                          Twitter：@arith_rose
 
-�@Human68k �ɂ�����t�@�C������� DOS CALL ����e�X�g���s���v���O�����ł��B
+　Human68k におけるファイル操作の DOS CALL 動作テストを行うプログラムです。
 
-�t�@�C���X�g���[�W����֘A�̃h���C�o�����������Ƃ��̓��쌟�؂Ȃǂɂǂ����B
+ファイルストレージ操作関連のドライバを実装したときの動作検証などにどうぞ。
